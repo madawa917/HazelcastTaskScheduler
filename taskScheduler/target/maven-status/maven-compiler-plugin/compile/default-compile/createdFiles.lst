@@ -1,0 +1,5 @@
+madawa\taskScheduler\task\ReportTask.class
+madawa\taskScheduler\task\SendMailTask.class
+madawa\taskScheduler\config\HazelcastConfig.class
+madawa\taskScheduler\task\MidnightTask.class
+madawa\taskScheduler\TaskSchedulerApplication.class
